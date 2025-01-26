@@ -6,7 +6,7 @@ flowchart TD
 
 ```
 
-Where we are going
-Where we are staying
-What we will do
-Where we will eat
+Where we are going 
+Where we are staying 
+What we will do 
+Where we will eat 
