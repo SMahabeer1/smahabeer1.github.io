@@ -1,5 +1,5 @@
 ```mermaid
 flowchart TD
- A[Plan Trip]-->B[Location]-->B[Food]-->B[Games]
+ A[Plan Trip]-->B[Location]-->C[Food]-->D[Games]
 
 ```
