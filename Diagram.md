@@ -1,7 +1,6 @@
 ```mermaid
 
 flowchartTD
-
-  A[Start]-->B[is it working?]
+ A[Start]-->B[is it working?]
 
 ```
