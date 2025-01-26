@@ -5,3 +5,8 @@ flowchart TD
  A-->D[Games]
 
 ```
+
+Where we are going
+Where we are staying
+What we will do
+Where we will eat
