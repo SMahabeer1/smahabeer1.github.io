@@ -2,11 +2,9 @@
 flowchart TD
  A[Trip to waterpark]-->B{Arrive}
  B-->C[Eat]
- B-->D[Rides]
- B-->E[Games]
- C-->F{Head Home}
- D-->F
- E-->F
+ C-->D[Rides]
+ D-->E[Games]
+ E-->F{Head Home}
  F-->G[Sleep!]
  
 
