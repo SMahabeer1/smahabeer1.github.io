@@ -4,8 +4,10 @@ flowchart TD
  B-->C[Eat]
  C-->D[Rides]
  D-->E[Games]
- E-->F{Head Home}
- F-->G[Sleep!]
+ E--->C
+ C--->F[More Rides!]
+ F-->G{Head Home}
+ G-->H[Sleep!]
  
 
 ```
