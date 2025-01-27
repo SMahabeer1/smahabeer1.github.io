@@ -11,8 +11,7 @@ flowchart TD
  
 
 ```
-
-Where we are going  
+Trip to water park: The ride to destination    
 Where we are staying  
 What we will do  
 Where we will eat  
