@@ -7,6 +7,7 @@ flowchart TD
  C-->F{Head Home}
  D-->F
  E-->F
+ F-->G[Sleep!]
  
 
 ```
