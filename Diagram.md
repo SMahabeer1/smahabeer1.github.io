@@ -1,8 +1,9 @@
 ```mermaid
 flowchart TD
- A[Plan Trip]-->B[Location]
- A-->C[Food]
- A-->D[Games]
+ A[Trip to waterpark]-->B{Arrive}
+ B-->C[Eat]
+ B-->D[Rides]
+ B-->E[Games]
 
 ```
 
